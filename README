@@ -1,0 +1,23 @@
+mss-ec (eyecandy)
+======
+this repository houses precompiled fonts and icons that i've been using daily.
+i do not remember the versions neither the sources as i've been moving the same
+files from system to system for years.
+
+sometimes i retardingly nuke these and instead of getting them back from a disk
+image i thought i'd just put all in a repo.
+
+as a note, adwaita's icons are stripped. some resolutions and scalables are
+removed.
+
+licenses
+========
+> adwaita-icon-theme
+ - https://gitlab.gnome.org/GNOME/adwaita-icon-theme/-/blob/master/COPYING
+> terminus-font
+ - http://scripts.sil.org/OFL
+> liberation-fonts
+ - https://github.com/liberationfonts/liberation-fonts/blob/main/LICENSE
+> sazanami
+ - https://osdn.net/projects/efont/downloads/10087/sazanami-20040629.tar.bz2
+  * license should be in the tarball.
